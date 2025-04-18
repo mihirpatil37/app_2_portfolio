@@ -12,16 +12,21 @@ with col1:
 with col2:
     st.title("Mihir Patil")
     content = """
-            I am Mihir Patil, an Automation Engineering Technician and Electrical 
-            Engineer with a Master's in Electrical and Information Engineering from 
-            Hochschule Wismar, Germany, and a Bachelor's from Gujarat Technical 
-            University. I have experience in automation, circuit design, machine 
-            learning, and data engineering, with expertise in Python, TensorFlow, 
-            PyTorch, MySQL, and PostgreSQL. My projects include developing a movie 
-            recommendation system and designing an automatic door system with Arduino. 
-            Fluent in English (C1) and proficient in German (B1), I excel in 
-            problem-solving, critical thinking, and project management.
-            """
+🌟 Welcome to My Coding Journey!\n
+Hi, I’m Mihir Patil—a Software Developer and Automation Engineer with a knack for turning ideas into functional, elegant solutions. Passionate about Python, I build tools that simplify workflows, automate tasks, and solve real-world problems. From AI-driven web apps to smart automation scripts, my projects blend creativity with technical precision.\n\n
+
+Here’s a glimpse of what I’ve crafted:\n\n
+
+🚀 Productivity Boosters: Todo apps, PDF generators, and systems that manage data seamlessly.\n\n
+
+🤖 Smart Automation: Tools that scrape websites, detect motion, or notify you about concert tours.\n\n
+
+🌐 Web Solutions: Full-stack apps for restaurants, portfolios, and even a positive news hub powered by sentiment analysis.\n\n
+
+Let’s build something impactful! Whether you’re here to explore my work or discuss a collaboration, I’m just a message away.\n\n
+
+📩 Get in touch—I’d love to connect!
+"""
     st.info(content)
 contact_content = "Below you can find some of the apps I have built in python. " \
               "Feel free to contact me!"
